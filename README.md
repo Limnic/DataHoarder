@@ -16,6 +16,8 @@ Program to check [duplicates czkawka](https://github.com/qarmin/czkawka)
 
 Program to check [duplicates dupeguru](https://github.com/arsenetar/dupeguru)
 
+Program to check [duplicates videos](https://github.com/winmerge/winmerge)
+
 Program to add [metadata to files](https://github.com/Dijji/FileMeta)
 
 Program to decrypt [DRM](https://github.com/cryptonek/widevine-l3-decryptor)
