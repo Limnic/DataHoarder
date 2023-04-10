@@ -49,3 +49,5 @@ Program to backtest [strategy](https://github.com/kernc/backtesting.py)
 
 Program to do reddit [r/place](https://github.com/rdeepak2002/reddit-place-script-2022)
 
+Cyber security [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns), [Explorador de Processos](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer),[Analisador de executaveis] (https://www.winitor.com/download2)
+
