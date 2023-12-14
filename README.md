@@ -22,6 +22,20 @@ Program to add [metadata to files](https://github.com/Dijji/FileMeta)
 
 Program to decrypt [DRM](https://github.com/cryptonek/widevine-l3-decryptor)
 
+Site para remover [silencios](https://videosilenceremover.web.app/)
+
+Progama para transcrever [Voz para texto](https://github.com/openai/whisper)
+      Abrir a pasta do ficheiro audio ou video usar o cmd-> whisper audio.flac/mp3/wav/mp4 --model medium
+
+Recuperar videos mp4 [danificados](https://www.videohelp.com/software/recover-mp4-to-h264/old-versions#downloadold)
+
+
+Site para pdf todas [instancias](https://github.com/atymic/mylot-article-scraper)
+Site para pdf todas [instancias](https://github.com/atymic/mylot-article-scraper)
+Site para pdf todas [instancias](https://github.com/atymic/mylot-article-scraper)
+Site para pdf todas [instancias](https://github.com/atymic/mylot-article-scraper)
+Site para pdf todas [instancias](https://github.com/atymic/mylot-article-scraper)
+Site para pdf todas [instancias](https://github.com/atymic/mylot-article-scraper)
 Site para pdf todas [instancias](https://github.com/atymic/mylot-article-scraper)
 
 
